@@ -1,5 +1,3 @@
-以下是为该激活工具编写的README文档：
-
 # JetBrains激活工具 v3.0
 
 ![界面截图](screenshot.png) <!-- 建议添加实际界面截图 -->
